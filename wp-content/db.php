@@ -1,0 +1,1 @@
+/Users/gode/Local Sites/ai-auto-market/app/public/wp-content/plugins/query-monitor/wp-content/db.php

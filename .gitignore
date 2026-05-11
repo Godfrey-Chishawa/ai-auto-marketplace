@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Local WP
+app/sql
+app/logs
+
+# Node
+node_modules
+
+# WordPress core
+wp-admin/
+wp-includes/
+
+# WordPress content uploads
+wp-content/uploads/
+
+# Cache
+wp-content/cache/
+
+# Environment
+.env
+
+# Backup plugins
+*.zip
+*.tar.gz
+
+# Ignore all plugins
+wp-content/plugins/*
+!wp-content/plugins/my-custom-plugin/
